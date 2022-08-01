@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@500&family=Playfair+Display:wght@500&display=swap');
+
+.container{
+    background-color: white;
+    color: black;
+    width: 800px;
+    font-family: 'Lato', sans-serif;;  
+    padding: 5px 60px;
+    border: solid 1.8px;
+    margin: auto;
+    font-size: medium;
+}
+
+.para{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.image{
+    height: 290px;
+    width: 800px;
+
+}
+
+.line{
+    line-height: 3em;
+    font-weight: bold;
+
+}
+
+.line2{
+    line-height: 2em;
+}
+
+.line3{
+    line-height: 2.5em;
+}
